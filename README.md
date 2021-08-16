@@ -26,9 +26,9 @@
 
 3.Which game genres has most games.
 
-4.
 
-5.
+
+
 
 
 ## Data set used
