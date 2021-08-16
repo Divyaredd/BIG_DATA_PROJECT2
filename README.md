@@ -20,9 +20,18 @@
 
 ## Problem Statements
 
+1.Which is the top most rated games accross all platform.
+
+2.Which game developer has released the most number of games.
+
+3.Which game genres has most games.
+
+4.
+
+5.
 
 
-
+## Data set used
 
 
 
