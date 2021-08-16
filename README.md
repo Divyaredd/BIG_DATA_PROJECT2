@@ -8,7 +8,6 @@ by Divya:
 
 
 **TECH STACK**
-1.PYTHON
 
 
 
