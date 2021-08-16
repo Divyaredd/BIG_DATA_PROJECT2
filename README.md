@@ -9,6 +9,9 @@ by Divya:
 
 **TECH STACK**
 
+1.Python
+
+2.Spark
 
 
 
