@@ -26,12 +26,18 @@
 
 3.Which game genres has most games.
 
+4.Number of games released per year
+
+5.Games with longest updation time
+
 
 
 
 
 
 ## Data set used
+
+#RAWG Data Set API
 
 
 
