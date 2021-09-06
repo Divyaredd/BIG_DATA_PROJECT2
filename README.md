@@ -33,76 +33,76 @@ Each row contains information about one game. There are several columns that hav
 
 * id: An unique ID identifying this Game in RAWG Database
 
-slug: An unique slug identifying this Game in RAWG Database
+* slug: An unique slug identifying this Game in RAWG Database
 
-name: Name of the game
+* name: Name of the game
 
-metacritic: Rating of the game on Metacritic
+* metacritic: Rating of the game on Metacritic
 
-released: The date the game was released
+* released: The date the game was released
 
-tba: To be announced state
+* tba: To be announced state
 
-updated: The date the game was last updated
+* updated: The date the game was last updated
 
-website: Game Website
+* website: Game Website
 
-rating: Rating rated by RAWG user
+* rating: Rating rated by RAWG user
 
-rating_top: Maximum rating
+* rating_top: Maximum rating
 
-playtime: Hours needed to complete the game
+*playtime: Hours needed to complete the game
 
-achievements_count: Number of achievements in game
+* achievements_count: Number of achievements in game
 
-ratings_count: Number of RAWG users who rated the game
+* ratings_count: Number of RAWG users who rated the game
 
-suggestions_count: Number of RAWG users who suggested the game
+* suggestions_count: Number of RAWG users who suggested the game
 
-game_series_count: Number of games in the series
+* game_series_count: Number of games in the series
 
-reviews_count: Number of RAWG users who reviewed the game
+* reviews_count: Number of RAWG users who reviewed the game
 
-platforms: Platforms game was released on. Separated by ||
+* platforms: Platforms game was released on. Separated by ||
 
-developers: Game developers. Separated by ||
+* developers: Game developers. Separated by ||
 
-genres: Game genres. Separated by ||
+* genres: Game genres. Separated by ||
 
-publishers: Game publishers. Separated by ||
+* publishers: Game publishers. Separated by ||
 
-esrb_rating: ESRB ratings
+* esrb_rating: ESRB ratings
 
-added_status_yet: Number of RAWG users had the game as "Not played"
+* added_status_yet: Number of RAWG users had the game as "Not played"
 
-added_status_owned: Number of RAWG users had the game as "Owned"
+* added_status_owned: Number of RAWG users had the game as "Owned"
 
-added_status_beaten: Number of RAWG users had the game as "Completed"
+* added_status_beaten: Number of RAWG users had the game as "Completed"
 
-added_status_toplay: Number of RAWG users had the game as "To play"
+* added_status_toplay: Number of RAWG users had the game as "To play"
 
-added_status_dropped: Number of RAWG users had the game as "Played but not beaten"
+* added_status_dropped: Number of RAWG users had the game as "Played but not beaten"
 
-added_status_playing: Number of RAWG users had the game as "Playing"
+* added_status_playing: Number of RAWG users had the game as "Playing"
 
 
 ## Getting Started
 
 Install pyspark 
 
-findspark.
+* findspark.
 
 pip install pyspark
 
 pip install findspark
 
-Download spark and set environmentl variables.
+* Download spark and set environmentl variables.
 
-Import pyspark,findspark.
+* Import pyspark,findspark.
 
-Create SparkSession.
+* Create SparkSession.
 
-Load data into spark.
+* Load data into spark.
 
 
 ## Problem Statements
@@ -120,13 +120,13 @@ Load data into spark.
 
 ## Contributors
 
-Devansh Sharma
+* Devansh Sharma
 
-Divya Reddy
+* Hemanth Ghosh
 
-Rajkumar
+* Rajkumar
 
-Sailash 
+* Sailash 
 
 
 ## Data set used
