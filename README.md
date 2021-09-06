@@ -31,7 +31,7 @@ Each row contains information about one game. There are several columns that hav
 
 **Column definitions**:
 
-id: An unique ID identifying this Game in RAWG Database
+*id: An unique ID identifying this Game in RAWG Database
 
 slug: An unique slug identifying this Game in RAWG Database
 
@@ -88,11 +88,12 @@ added_status_playing: Number of RAWG users had the game as "Playing"
 
 ## Getting Started
 
-Install pyspark, 
+Install pyspark 
 
 findspark.
 
 pip install pyspark
+
 pip install findspark
 
 Download spark and set environmentl variables.
