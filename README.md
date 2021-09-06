@@ -51,7 +51,7 @@ Each row contains information about one game. There are several columns that hav
 
 * rating_top: Maximum rating
 
-*playtime: Hours needed to complete the game
+* playtime: Hours needed to complete the game
 
 * achievements_count: Number of achievements in game
 
@@ -92,9 +92,9 @@ Install pyspark
 
 * findspark.
 
-pip install pyspark
+   pip install pyspark
 
-pip install findspark
+   pip install findspark
 
 * Download spark and set environmentl variables.
 
