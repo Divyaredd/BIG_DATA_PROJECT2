@@ -25,7 +25,7 @@ RAWG is the largest Video Game Database and game discovery service with 500,000+
 
 # Data Summary
 
-*Content
+**Content
 
 Each row contains information about one game. There are several columns that have multiple values like platforms, genres, … In those cases, values are separated by double pipes ||.
 
