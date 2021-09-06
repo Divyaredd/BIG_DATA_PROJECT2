@@ -31,7 +31,7 @@ Each row contains information about one game. There are several columns that hav
 
 **Column definitions**:
 
-.id: An unique ID identifying this Game in RAWG Database
+* id: An unique ID identifying this Game in RAWG Database
 
 slug: An unique slug identifying this Game in RAWG Database
 
@@ -105,9 +105,6 @@ Create SparkSession.
 Load data into spark.
 
 
-
-
-
 ## Problem Statements
 
 1.Which is the top most rated games accross all platform.
@@ -130,8 +127,6 @@ Divya Reddy
 Rajkumar
 
 Sailash 
-
-
 
 
 ## Data set used
