@@ -5,6 +5,7 @@ by Divya
 ## Project Description
 
 An analysis on RAWG API.
+
 RAWG is the largest Video Game Database and game discovery service with 500,000+ games data.
 
 ## TECH STACK
@@ -20,6 +21,12 @@ RAWG is the largest Video Game Database and game discovery service with 500,000+
 5.Python [3.8]
 
 6.Git/GitHub 
+
+
+## Data Summary
+
+# Content
+
 
 
 
