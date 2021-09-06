@@ -1,5 +1,12 @@
 ## An Analysis on RAWG API
 
+by Divya
+
+## Project Description
+
+An analysis on RAWG API.
+RAWG is the largest Video Game Database and game discovery service with 500,000+ games data.
+
 ## TECH STACK
 
 1.Pyspark [3.1.2]
