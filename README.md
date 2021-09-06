@@ -29,7 +29,7 @@ RAWG is the largest Video Game Database and game discovery service with 500,000+
 
 Each row contains information about one game. There are several columns that have multiple values like platforms, genres, … In those cases, values are separated by double pipes ||.
 
-Column definitions:
+**Column definitions**:
 
 id: An unique ID identifying this Game in RAWG Database
 
@@ -86,6 +86,24 @@ added_status_dropped: Number of RAWG users had the game as "Played but not beate
 added_status_playing: Number of RAWG users had the game as "Playing"
 
 
+## Getting Started
+
+Install pyspark, 
+
+findspark.
+
+pip install pyspark
+pip install findspark
+
+Download spark and set environmentl variables.
+
+Import pyspark,findspark.
+
+Create SparkSession.
+
+Load data into spark.
+
+
 
 
 
@@ -102,6 +120,15 @@ added_status_playing: Number of RAWG users had the game as "Playing"
 5.Games with longest updation time
 
 
+## Contributors
+
+Devansh Sharma
+
+Divya Reddy
+
+Rajkumar
+
+Sailash 
 
 
 
@@ -118,6 +145,10 @@ added_status_playing: Number of RAWG users had the game as "Playing"
 eg: 1,dgeneration-hd,D/Generation HD,,2015-10-23,False,2019-09-17T11:58:57,
 http://dgeneration.net,0.0,0,1,80,2,292,0,4,PC||macOS||Xbox One||PlayStation 4||Nintendo Switch,
 West Coast Software,Adventure||Puzzle,West Coast Software,Everyone 10+,4,88,2,2,0,0
+
+## License
+
+This project uses the following license: MIT License
 
 
 
