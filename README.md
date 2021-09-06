@@ -31,7 +31,7 @@ Each row contains information about one game. There are several columns that hav
 
 **Column definitions**:
 
-*id: An unique ID identifying this Game in RAWG Database
+.id: An unique ID identifying this Game in RAWG Database
 
 slug: An unique slug identifying this Game in RAWG Database
 
